@@ -1,0 +1,432 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/yOm993lsJyPmBodlYjgpPwBjXP9.jpg",
+            "id": 787699,
+            "title": "Wonka",
+            "original_language": "en",
+            "original_title": "Wonka",
+            "overview": "Willy Wonka – chock-full of ideas and determined to change the world one delectable bite at a time – is proof that the best things in life begin with a dream, and if you’re lucky enough to meet Willy Wonka, anything is possible.",
+            "poster_path": "/qhb1qOilapbapxWQn9jtRCMwXJF.jpg",
+            "media_type": "movie",
+            "genre_ids": [
+                35,
+                10751,
+                14
+            ],
+            "popularity": 1643.733,
+            "release_date": "2023-12-06",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 1278
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bckxSN9ueOgm0gJpVJmPQrecWul.jpg",
+            "id": 572802,
+            "title": "Aquaman and the Lost Kingdom",
+            "original_language": "en",
+            "original_title": "Aquaman and the Lost Kingdom",
+            "overview": "Black Manta, still driven by the need to avenge his father's death and wielding the power of the mythic Black Trident, will stop at nothing to take Aquaman down once and for all. To defeat him, Aquaman must turn to his imprisoned brother Orm, the former King of Atlantis, to forge an unlikely alliance in order to save the world from irreversible destruction.",
+            "poster_path": "/7lTnXOy0iNtBAdRP3TZvaKJ77F6.jpg",
+            "media_type": "movie",
+            "genre_ids": [
+                28,
+                12,
+                14
+            ],
+            "popularity": 1092.699,
+            "release_date": "2023-12-20",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 579
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ehumsuIBbgAe1hg343oszCLrAfI.jpg",
+            "id": 1022796,
+            "title": "Wish",
+            "original_language": "en",
+            "original_title": "Wish",
+            "overview": "Asha, a sharp-witted idealist, makes a wish so powerful that it is answered by a cosmic force – a little ball of boundless energy called Star. Together, Asha and Star confront a most formidable foe - the ruler of Rosas, King Magnifico - to save her community and prove that when the will of one courageous human connects with the magic of the stars, wondrous things can happen.",
+            "poster_path": "/AcoVfiv1rrWOmAdpnAMnM56ki19.jpg",
+            "media_type": "movie",
+            "genre_ids": [
+                16,
+                10751,
+                14,
+                12
+            ],
+            "popularity": 306.244,
+            "release_date": "2023-11-13",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 290
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2KGxQFV9Wp1MshPBf8BuqWUgVAz.jpg",
+            "id": 940551,
+            "title": "Migration",
+            "original_language": "en",
+            "original_title": "Migration",
+            "overview": "After a migrating duck family alights on their pond with thrilling tales of far-flung places, the Mallard family embarks on a family road trip, from New England, to New York City, to tropical Jamaica.",
+            "poster_path": "/ldfCF9RhR40mppkzmftxapaHeTo.jpg",
+            "media_type": "movie",
+            "genre_ids": [
+                16,
+                12,
+                35,
+                10751,
+                28
+            ],
+            "popularity": 431.067,
+            "release_date": "2023-12-06",
+            "video": false,
+            "vote_average": 7.442,
+            "vote_count": 120
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/klb3yODwKMRle19EcvdeSatEZL7.jpg",
+            "id": 1072342,
+            "title": "Night Swim",
+            "original_language": "en",
+            "original_title": "Night Swim",
+            "overview": "Forced into early retirement by a degenerative illness, former baseball player Ray Waller moves into a new house with his wife and two children. Secretly hoping, against the odds, to return to pro ball, Ray persuades Eve that the new home’s shimmering backyard swimming pool will be fun for the kids and provide physical therapy for him. But a dark secret in the home’s past will unleash a malevolent force that will drag the family under, into the depths of inescapable terror.",
+            "poster_path": "/gSkfBGdxdialBMM7P02V4hcI6Ij.jpg",
+            "media_type": "movie",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 160.131,
+            "release_date": "2024-01-03",
+            "video": false,
+            "vote_average": 5.2,
+            "vote_count": 54
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/criPrxkTggCra1jch49jsiSeXo1.jpg",
+            "id": 609681,
+            "title": "The Marvels",
+            "original_language": "en",
+            "original_title": "The Marvels",
+            "overview": "Carol Danvers, aka Captain Marvel, has reclaimed her identity from the tyrannical Kree and taken revenge on the Supreme Intelligence. But unintended consequences see Carol shouldering the burden of a destabilized universe. When her duties send her to an anomalous wormhole linked to a Kree revolutionary, her powers become entangled with that of Jersey City super-fan Kamala Khan, aka Ms. Marvel, and Carol’s estranged niece, now S.A.B.E.R. astronaut Captain Monica Rambeau. Together, this unlikely trio must team up and learn to work in concert to save the universe.",
+            "poster_path": "/9GBhzXMFjgcZ3FdR9w3bUMMTps5.jpg",
+            "media_type": "movie",
+            "genre_ids": [
+                878,
+                12,
+                28
+            ],
+            "popularity": 3327.208,
+            "release_date": "2023-11-08",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 1151
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/du11oPPbEoDnUpiREO5tUg47rJd.jpg",
+            "id": 365620,
+            "title": "Ferrari",
+            "original_language": "en",
+            "original_title": "Ferrari",
+            "overview": "Set during the summer of 1957. Ex-racecar driver, Enzo Ferrari, is in crisis. Bankruptcy stalks the company he and his wife, Laura, built from nothing ten years earlier. Their tempestuous marriage struggles with the mourning for one son and the acknowledgement of another.",
+            "poster_path": "/xBFyJHvXCTgf9Vmq5uCnXRHrMQ4.jpg",
+            "media_type": "movie",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "popularity": 49.616,
+            "release_date": "2023-12-14",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 188
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/siA2d4PNn4JVFZAwfIYx4pnKCaK.jpg",
+            "id": 46648,
+            "name": "True Detective",
+            "original_language": "en",
+            "original_name": "True Detective",
+            "overview": "An American anthology police detective series utilizing multiple timelines in which investigations seem to unearth personal and professional secrets of those involved, both within or outside the law.",
+            "poster_path": "/cuV2O5ZyDLHSOWzg3nLVljp1ubw.jpg",
+            "media_type": "tv",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 1393.487,
+            "first_air_date": "2014-01-12",
+            "vote_average": 8.321,
+            "vote_count": 2961,
+            "origin_country": [
+                "US"
+            ]
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/adNMDatnEnIEo4LUo1KyhouP6VA.jpg",
+            "id": 1212073,
+            "title": "Sixty Minutes",
+            "original_language": "de",
+            "original_title": "60 Minuten",
+            "overview": "Desperate to keep custody of his daughter, a mixed martial arts fighter abandons a big match and races across Berlin to attend her birthday party.",
+            "poster_path": "/jojfbnIHGsRpodIood3OQoqA45Y.jpg",
+            "media_type": "movie",
+            "genre_ids": [
+                28,
+                18
+            ],
+            "popularity": 135.265,
+            "release_date": "2024-01-19",
+            "video": false,
+            "vote_average": 6.796,
+            "vote_count": 54
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xI1qzf4q93PKqu9QpoW5hwW5QuG.jpg",
+            "id": 956262,
+            "title": "The Kitchen",
+            "original_language": "en",
+            "original_title": "The Kitchen",
+            "overview": "Izi's close to escaping The Kitchen, one of London's last remaining housing estates. But when young Benji enters his life, he faces some hard decisions.",
+            "poster_path": "/tV0hK1BiqYrYlehChv4WJXIWgmZ.jpg",
+            "media_type": "movie",
+            "genre_ids": [
+                878,
+                53,
+                18,
+                12
+            ],
+            "popularity": 55.355,
+            "release_date": "2023-10-15",
+            "video": false,
+            "vote_average": 4.875,
+            "vote_count": 40
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fm6KqXpk3M2HVveHwCrBSSBaO0V.jpg",
+            "id": 872585,
+            "title": "Oppenheimer",
+            "original_language": "en",
+            "original_title": "Oppenheimer",
+            "overview": "The story of J. Robert Oppenheimer's role in the development of the atomic bomb during World War II.",
+            "poster_path": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+            "media_type": "movie",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "popularity": 531.021,
+            "release_date": "2023-07-19",
+            "video": false,
+            "vote_average": 8.115,
+            "vote_count": 6273
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1X7vow16X7CnCoexXh4H4F2yDJv.jpg",
+            "id": 466420,
+            "title": "Killers of the Flower Moon",
+            "original_language": "en",
+            "original_title": "Killers of the Flower Moon",
+            "overview": "When oil is discovered in 1920s Oklahoma under Osage Nation land, the Osage people are murdered one by one—until the FBI steps in to unravel the mystery.",
+            "poster_path": "/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg",
+            "media_type": "movie",
+            "genre_ids": [
+                80,
+                36,
+                18
+            ],
+            "popularity": 398.325,
+            "release_date": "2023-10-18",
+            "video": false,
+            "vote_average": 7.525,
+            "vote_count": 2001
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ejTG17sqAEEyIqZVpYhyw0PGUdT.jpg",
+            "id": 792307,
+            "title": "Poor Things",
+            "original_language": "en",
+            "original_title": "Poor Things",
+            "overview": "Brought back to life by an unorthodox scientist, a young woman runs off with a debauched lawyer on a whirlwind adventure across the continents. Free from the prejudices of her times, she grows steadfast in her purpose to stand for equality and liberation.",
+            "poster_path": "/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg",
+            "media_type": "movie",
+            "genre_ids": [
+                878,
+                10749,
+                35
+            ],
+            "popularity": 351.341,
+            "release_date": "2023-11-21",
+            "video": false,
+            "vote_average": 8.077,
+            "vote_count": 226
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nHf61UzkfFno5X1ofIhugCPus2R.jpg",
+            "id": 346698,
+            "title": "Barbie",
+            "original_language": "en",
+            "original_title": "Barbie",
+            "overview": "Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans.",
+            "poster_path": "/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+            "media_type": "movie",
+            "genre_ids": [
+                35,
+                12,
+                14
+            ],
+            "popularity": 392.525,
+            "release_date": "2023-07-19",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 7034
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/VvRIlfsBCLLXoPty0hf21ek6b6.jpg",
+            "id": 1230393,
+            "title": "Monsters 103 Mercies Dragon Damnation",
+            "original_language": "ja",
+            "original_title": "MONSTERS 一百三情飛龍侍極",
+            "overview": "A samurai's path leads him to a young waitress whose hometown was destroyed by a dragon. He doesn't want any trouble — but it finds them anyway.",
+            "poster_path": "/yG8QKnaiz7JoIMh3oxdm0JJN6IG.jpg",
+            "media_type": "movie",
+            "genre_ids": [
+                16,
+                28,
+                14,
+                12
+            ],
+            "popularity": 28.93,
+            "release_date": "2024-01-21",
+            "video": false,
+            "vote_average": 8.1,
+            "vote_count": 17
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/f1AQhx6ZfGhPZFTVKgxG91PhEYc.jpg",
+            "id": 753342,
+            "title": "Napoleon",
+            "original_language": "en",
+            "original_title": "Napoleon",
+            "overview": "An epic that details the checkered rise and fall of French Emperor Napoleon Bonaparte and his relentless journey to power through the prism of his addictive, volatile relationship with his wife, Josephine.",
+            "poster_path": "/jE5o7y9K6pZtWNNMEw3IdpHuncR.jpg",
+            "media_type": "movie",
+            "genre_ids": [
+                36,
+                10752,
+                18
+            ],
+            "popularity": 1478.114,
+            "release_date": "2023-11-22",
+            "video": false,
+            "vote_average": 6.506,
+            "vote_count": 1363
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wrhLyiY7ksW0fQCqNpa52qiOAH8.jpg",
+            "id": 108978,
+            "name": "Reacher",
+            "original_language": "en",
+            "original_name": "Reacher",
+            "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
+            "poster_path": "/jFuH0md41x5mB4qj5344mSmtHrO.jpg",
+            "media_type": "tv",
+            "genre_ids": [
+                10759,
+                80,
+                18
+            ],
+            "popularity": 1641.53,
+            "first_air_date": "2022-02-03",
+            "vote_average": 8.098,
+            "vote_count": 1282,
+            "origin_country": [
+                "US"
+            ]
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/x7gDizyLjPZi5DdZ6jSbSM2MgMU.jpg",
+            "id": 228477,
+            "name": "Zorro",
+            "original_language": "es",
+            "original_name": "Zorro",
+            "overview": "Diego de la Vega returns to California to avenge his father's murder. After assuming the title of Zorro, he confronts the Governor, the malevolent leader of the Chinese community and a secret society, placing the common good above all.",
+            "poster_path": "/f0KIsKYKDSYMGFT8egU5l7IwE57.jpg",
+            "media_type": "tv",
+            "genre_ids": [
+                10759,
+                18
+            ],
+            "popularity": 238.638,
+            "first_air_date": "2024-01-25",
+            "vote_average": 8.179,
+            "vote_count": 28,
+            "origin_country": [
+                "ES"
+            ]
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kJeXTvZGoxS1XQQStD6uDBdsskY.jpg",
+            "id": 212553,
+            "name": "The Bequeathed",
+            "original_language": "ko",
+            "original_name": "선산",
+            "overview": "After the death of an unknown uncle, a woman inherits a burial ground and finds herself in the center of a string of murders and dark secrets.",
+            "poster_path": "/iExLDuclzOp06ro9929UTDQRDm1.jpg",
+            "media_type": "tv",
+            "genre_ids": [
+                18,
+                9648,
+                80
+            ],
+            "popularity": 246.821,
+            "first_air_date": "2024-01-19",
+            "vote_average": 7.8,
+            "vote_count": 15,
+            "origin_country": [
+                "KR"
+            ]
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kszooR7v1TLFM4pzx6IkKq2jDAN.jpg",
+            "id": 915935,
+            "title": "Anatomy of a Fall",
+            "original_language": "fr",
+            "original_title": "Anatomie d'une chute",
+            "overview": "A woman is suspected of her husband’s murder, and their blind son faces a moral dilemma as the sole witness.",
+            "poster_path": "/kQs6keheMwCxJxrzV83VUwFtHkB.jpg",
+            "media_type": "movie",
+            "genre_ids": [
+                18,
+                9648
+            ],
+            "popularity": 120.039,
+            "release_date": "2023-08-13",
+            "video": false,
+            "vote_average": 7.763,
+            "vote_count": 686
+        }
+    ],
+    "total_pages": 1000,
+    "total_results": 20000
+}
