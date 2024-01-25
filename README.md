@@ -1,3 +1,7 @@
+This is a demo project
+
+-----
+
 To run the project make sure you have docker & docker-compose installed.
 
 ### Installation
